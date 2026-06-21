@@ -37,10 +37,9 @@
 | ![New Building](https://raw.githubusercontent.com/GADEKAR328/Student-Annual-Performance---PBI-Dashboard/6de248b91753abe09a0de19da212aa59a4bf37db/School%20Prayer%20-%20new%20building.jpg) | ![Old Building](https://raw.githubusercontent.com/GADEKAR328/Student-Annual-Performance---PBI-Dashboard/6de248b91753abe09a0de19da212aa59a4bf37db/Students%20Playground%20old%20building.jpg) |
 
 **Janseva Vidyalaya Wadzire**
-
-Wadzire, Maharashtra 414302
-
-Classes 5 to 10 · Divisions A and B · Academic Years 2022-23 to 2024-25
+📍 Wadzire, Maharashtra 414302
+🏫 Classes 5 to 10 · Divisions A & B
+📅 Academic Years 2022-23 to 2024-25
 
 </div>
 
@@ -287,6 +286,8 @@ Student-Annual-Performance---PBI-Dashboard
 
 ## 🎨 Color Theme
 
+<div align="center">
+
 | Role | Hex Code |
 |------|----------|
 | Primary Navy | #1A3C5E |
@@ -295,14 +296,20 @@ Student-Annual-Performance---PBI-Dashboard
 | Red Alert | #dc2626 |
 | Background | #F5F7FA |
 
+</div>
+
 ---
 
 ## 🛠️ Tools Used
+
+<div align="center">
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![DAX](https://img.shields.io/badge/DAX-15%20Formulas-1A3C5E?style=for-the-badge)](/)
 [![Python](https://img.shields.io/badge/Python-Dataset-3776AB?style=for-the-badge&logo=python&logoColor=white)](/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/GADEKAR328)
+
+</div>
 
 ---
 
